@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">STARGRAM</string>
+    <string name="username">wannaone</string>
+    <string name="bio_text">made by Putri Mutiara Bintang (25/564258/SV/26804) for tugas praktikum pemrograman perangkat bergerak</string>
+    <string name="post_count">12</string>
+    <string name="post_label">Post</string>
+    <string name="follower_count">11M</string>
+    <string name="follower_label">Followers</string>
+    <string name="following_count">11</string>
+    <string name="following_label">Following</string>
+    <string name="btn_settings">Settings</string>
+    <string name="btn_share">Share Profile</string>
+</resources>
